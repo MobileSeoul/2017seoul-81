@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SeoulMovie.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>27F2DAD7BE035A371710BDB2ECC3AC0B6D17AFF0</string>
+				<key>dateExpires</key>
+				<string>2018. 10. 17.</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>27F2DAD7BE035A371710BDB2ECC3AC0B6D17AFF0</string>
+						<key>dateExpires</key>
+						<string>2018. 10. 17.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>29Q45PKR77</string>
+						<key>name</key>
+						<string>jaesung Lee</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>27F2DAD7BE035A371710BDB2ECC3AC0B6D17AFF0</string>
+						<key>dateExpires</key>
+						<string>2018. 10. 17.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Kingfisher.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>29Q45PKR77</string>
+						<key>name</key>
+						<string>jaesung Lee</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>27F2DAD7BE035A371710BDB2ECC3AC0B6D17AFF0</string>
+						<key>dateExpires</key>
+						<string>2018. 10. 17.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>PageControl.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>29Q45PKR77</string>
+						<key>name</key>
+						<string>jaesung Lee</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>27F2DAD7BE035A371710BDB2ECC3AC0B6D17AFF0</string>
+						<key>dateExpires</key>
+						<string>2018. 10. 17.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftyJSON.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>29Q45PKR77</string>
+						<key>name</key>
+						<string>jaesung Lee</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>27F2DAD7BE035A371710BDB2ECC3AC0B6D17AFF0</string>
+						<key>dateExpires</key>
+						<string>2018. 10. 17.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Toaster.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>29Q45PKR77</string>
+						<key>name</key>
+						<string>jaesung Lee</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>29Q45PKR77.blackturtle2.SeoulMovie</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>29Q45PKR77</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>29Q45PKR77.blackturtle2.SeoulMovie</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>SeoulMovie.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5787aa64-6aa4-4668-9c8b-76ed44f5f956</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>29Q45PKR77</string>
+				<key>name</key>
+				<string>jaesung Lee</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
